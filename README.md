@@ -1,12 +1,7 @@
-# Code AI Assistant 🤖
+# Code AI Assistant
 
-AI Powered Coding Assistant
+## Current status
 
-## Features
-- Code Generation
-- Code Explanation
-- Chat Interface
+This repository contains an incomplete Flask scaffold, not a working AI coding assistant. `app.py` serves `/` by rendering `templates/index.html`, but that template is not present in the repository. No model/API integration or code-generation implementation is included.
 
-## How to Run
-pip install flask
-python app.py
+The homepage therefore cannot render successfully as checked in. Add and test the missing interface and any actual AI integration before advertising code generation, explanation, or chat features.
